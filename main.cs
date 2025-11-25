@@ -8,7 +8,7 @@ class simpleClac
         float a, b, hasil = 0;
         string op;
 
-        Console.WriteLine("Kalkulator Sederhana");
+        Console.WriteLine("My kalkulator");
 
         //input
 
