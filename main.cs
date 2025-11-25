@@ -45,7 +45,7 @@ class simpleClac
             break;
         }
 
-        Console.Write($"Jawabanya adalah: {hasil}");
+        Console.Write($"Hasilnya adalah: {hasil}");
 
             
 
