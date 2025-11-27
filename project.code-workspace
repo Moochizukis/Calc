@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Andika Setyawan/OneDrive/Documents/project"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "WebApplication1.sln"
+	}
+}
