@@ -45,7 +45,7 @@ class simpleClac
             break;
         }
 
-        Console.Write($"Hasilnya adalah: {hasil}");
+        Console.Write($"Jadi hasilnya adalah: {hasil}");
 
             
 
